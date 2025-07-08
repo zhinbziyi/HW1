@@ -146,7 +146,7 @@ const characters = [
     id: "012",
     name: "修拉哈特",
     nickname: "全知的修拉哈特",
-    image: "https://img.moegirl.tw/common/7/78/Frieren_%E4%BF%AE%E6%8B%89%E5%93%88%E7%89%B9.png",
+    image: "https://truth.bahamut.com.tw/s01/202204/742d5b7bcc4b1711fd3754b1ac9ee2e2.JPG",
     faction: "魔王軍",
     gender: "男",
     race: "魔族",
