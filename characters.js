@@ -146,7 +146,7 @@ const characters = [
     id: "012",
     name: "修拉哈特",
     nickname: "全知的修拉哈特",
-    image: "https://truth.bahamut.com.tw/s01/202204/742d5b7bcc4b1711fd3754b1ac9ee2e2.JPG",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyUX-kV7rC1bKeBM-DlRHhgwy7Twfo7OcAOA&s",
     faction: "魔王軍",
     gender: "男",
     race: "魔族",
