@@ -68,7 +68,7 @@ const characters = [
     id: "006",
     name: "艾澤",
     nickname: "無",
-    image: "https://img.moegirl.tw/common/c/c9/Frieren_anime_%E8%89%BE%E6%B3%BD.png", 
+    image: "https://www.bnacg.com/uploads/2307/1-230F5221934161.jpg", 
     faction: "無",
     gender: "男",
     race: "矮人",
